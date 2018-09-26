@@ -3,9 +3,9 @@ H SIM: 0.025
 P SIM: 0.01
 SAMPLE SIZE: 250000
 OUTDIR: results
-LD LIST: ld.list
+LD LIST: chr10.ld.list
 LD DIR: /u/home/r/ruthjohn/gleb_kathy_ruthie/pickrell_blocks/all_chr_1KG_maf_0.05/ld_files
-RSID LIST: rsid.list
+RSID LIST: chr10.rsid.list
 RSID DIR: /u/home/r/ruthjohn/gleb_kathy_ruthie/pickrell_blocks/all_chr_1KG_maf_0.05/rsID_files
 NUM SNPS: NA
 PLINK: /u/home/r/ruthjohn/pasaniucdata/software/plink

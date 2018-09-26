@@ -2,7 +2,7 @@
 
 #$ -cwd
 #$ -j y
-#$ -l h_data=10G,h_rt=2:00:00
+#$ -l h_data=5G,h_rt=2:00:00
 #$ -o unity_v1.log
 
 source /u/local/Modules/default/init/modules.sh
@@ -108,5 +108,6 @@ BP_HEAD="BP"
 #python scripts/prune_ld.py --gwas_file $GWAS_FILE --window $WINDOW --bp_head $BP_HEAD
 
 # run inference 
-ITS=500
-#python src/main.py  --s $SEED --H $H_SIM --N $N --id $SIM_NAME --its $ITS --gwas_file $GWAS_FILE --outdir $OUT_DIR
+ITS=1000
+GWAS_FILE=$SIMDIR/$SIM_NAME'.gwas'
+python src/main.py  --s $SEED --H $H_SIM --N $N --id $SIM_NAME --its $ITS --gwas_file $GWAS_FILE --outdir $OUT_DIR

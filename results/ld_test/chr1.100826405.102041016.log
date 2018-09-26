@@ -1,0 +1,19 @@
+PLINK v1.90b2d 64-bit (11 Aug 2014)
+8 arguments: --bfile /u/project/pasaniuc/pasaniucdata/DATA/LDSC/1000G_EUR/1000G_EUR_Phase3_plink/1000G.EUR.QC.1 --biallelic-only --extract /u/home/r/ruthjohn/gleb_kathy_ruthie/pickrell_blocks/all_chr_1KG_maf_0.05/rsID_files/chr1.100826405.102041016.snplist --make-just-bim --out results/ld_test/chr1.100826405.102041016
+Hostname: n6119
+Working directory: /u/project/pasaniuc/pasaniucdata/ruthjohn/unity_v1.0
+Start time: Mon Sep 24 15:24:58 2018
+
+Random number seed: 1537827898
+64518 MB RAM detected; reserving 32259 MB for main workspace.
+779354 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/ld_test/chr1.100826405.102041016.nosex .
+--extract: 2654 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+2654 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/ld_test/chr1.100826405.102041016.bim ... done.
+
+End time: Mon Sep 24 15:24:59 2018

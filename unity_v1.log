@@ -1,0 +1,179 @@
+- - - - - - - - - - UNITY v1.0 simulation - - - - - - - - -
+SIM NAME: chr10
+H SIM: 0.025
+P SIM: 0.01
+N: 250000
+LD LIST: chr10.ld.list
+RSID LIST: chr10.rsid.list
+Outputing simulated gwas to directory: results/chr10
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2018-09-26 09:03:47 Extracting CHR/BP information for snps: chr10.100241302.100668400.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.100241302.100668400.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.100241302.100668400.nosex .
+--extract: 876 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+876 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.100241302.100668400.bim ... done.
+2018-09-26 09:03:49 Extracting CHR/BP information for snps: chr10.100668400.102949239.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.100668400.102949239.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.100668400.102949239.nosex .
+--extract: 4275 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+4275 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.100668400.102949239.bim ... done.
+2018-09-26 09:03:49 Extracting CHR/BP information for snps: chr10.10249396.12586797.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.10249396.12586797.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.10249396.12586797.nosex .
+--extract: 6022 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+6022 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.10249396.12586797.bim ... done.
+2018-09-26 09:03:51 Extracting CHR/BP information for snps: chr10.102949239.104380410.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.102949239.104380410.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.102949239.104380410.nosex .
+--extract: 1903 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+1903 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.102949239.104380410.bim ... done.
+2018-09-26 09:03:51 Extracting CHR/BP information for snps: chr10.104380410.106695048.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.104380410.106695048.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.104380410.106695048.nosex .
+--extract: 3912 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+3912 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.104380410.106695048.bim ... done.
+2018-09-26 09:03:52 Extracting CHR/BP information for snps: chr10.106695048.108726686.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.106695048.108726686.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.106695048.108726686.nosex .
+--extract: 4473 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+4473 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.106695048.108726686.bim ... done.
+2018-09-26 09:03:52 Extracting CHR/BP information for snps: chr10.108726686.110317705.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.108726686.110317705.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.108726686.110317705.nosex .
+--extract: 4295 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+4295 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.108726686.110317705.bim ... done.
+2018-09-26 09:03:53 Extracting CHR/BP information for snps: chr10.110317705.112561493.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.110317705.112561493.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.110317705.112561493.nosex .
+--extract: 4582 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+4582 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.110317705.112561493.bim ... done.
+2018-09-26 09:03:54 Extracting CHR/BP information for snps: chr10.112561493.115328432.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.112561493.115328432.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.112561493.115328432.nosex .
+--extract: 5068 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+5068 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.112561493.115328432.bim ... done.
+2018-09-26 09:03:54 Extracting CHR/BP information for snps: chr10.115328432.116421406.snplist
+PLINK v1.90b2d 64-bit (11 Aug 2014)        https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to results/chr10/chr10.115328432.116421406.log.
+48385 MB RAM detected; reserving 24192 MB for main workspace.
+Allocated 7654 MB successfully, after larger attempt(s) failed.
+510501 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/chr10/chr10.115328432.116421406.nosex .
+--extract: 2415 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+2415 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--make-just-bim to results/chr10/chr10.115328432.116421406.bim ... done.
+26-Sep-18 09:04:34 - Simulation name: chr10
+26-Sep-18 09:04:34 - Simulating with params -- p: 0.0100, H2: 0.0250, N: 250000
+26-Sep-18 09:04:34 - Simulating with LD found in dir: /u/home/r/ruthjohn/gleb_kathy_ruthie/pickrell_blocks/all_chr_1KG_maf_0.05/ld_files
+26-Sep-18 09:04:34 - Outputing simulated gwas to: results/chr10
+26-Sep-18 09:04:35 - Calculating total number of SNPs...
+26-Sep-18 09:05:03 - Calculating total number of SNPs...
+26-Sep-18 09:06:12 - Calculating total number of SNPs...
+26-Sep-18 09:06:16 - Calculating total number of SNPs...
+26-Sep-18 09:06:38 - Calculating total number of SNPs...
+26-Sep-18 09:07:09 - Calculating total number of SNPs...
+26-Sep-18 09:07:36 - Calculating total number of SNPs...
+26-Sep-18 09:08:08 - Calculating total number of SNPs...
+26-Sep-18 09:08:50 - Calculating total number of SNPs...
+26-Sep-18 09:08:57 - Calculating total number of SNPs...
+26-Sep-18 09:08:58 - Simulating effect sizes using ld matrix: chr10.100241302.100668400.ld.gz
+26-Sep-18 09:09:02 - Using bim file for SNP/BP info: results/chr10/chr10.100241302.100668400.bim
+26-Sep-18 09:09:02 - Saving locus to: chr10.100241302.100668400.gwas
+26-Sep-18 09:09:30 - Simulating effect sizes using ld matrix: chr10.100668400.102949239.ld.gz
+26-Sep-18 09:10:19 - Using bim file for SNP/BP info: results/chr10/chr10.100668400.102949239.bim
+26-Sep-18 09:10:19 - Saving locus to: chr10.100668400.102949239.gwas
