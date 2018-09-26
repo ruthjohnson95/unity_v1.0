@@ -178,3 +178,32 @@ Note: No phenotypes present.
 26-Sep-18 09:10:19 - Using bim file for SNP/BP info: results/chr10/chr10.100668400.102949239.bim
 26-Sep-18 09:10:19 - Saving locus to: chr10.100668400.102949239.gwas
 26-Sep-18 09:11:27 - Simulating effect sizes using ld matrix: chr10.10249396.12586797.ld.gz
+26-Sep-18 09:13:50 - Using bim file for SNP/BP info: results/chr10/chr10.10249396.12586797.bim
+26-Sep-18 09:13:50 - Saving locus to: chr10.10249396.12586797.gwas
+26-Sep-18 09:13:54 - Simulating effect sizes using ld matrix: chr10.102949239.104380410.ld.gz
+26-Sep-18 09:13:57 - Using bim file for SNP/BP info: results/chr10/chr10.102949239.104380410.bim
+26-Sep-18 09:13:57 - Saving locus to: chr10.102949239.104380410.gwas
+26-Sep-18 09:14:18 - Simulating effect sizes using ld matrix: chr10.104380410.106695048.ld.gz
+26-Sep-18 09:15:02 - Using bim file for SNP/BP info: results/chr10/chr10.104380410.106695048.bim
+26-Sep-18 09:15:03 - Saving locus to: chr10.104380410.106695048.gwas
+26-Sep-18 09:15:33 - Simulating effect sizes using ld matrix: chr10.106695048.108726686.ld.gz
+26-Sep-18 09:16:39 - Using bim file for SNP/BP info: results/chr10/chr10.106695048.108726686.bim
+26-Sep-18 09:16:39 - Saving locus to: chr10.106695048.108726686.gwas
+26-Sep-18 09:17:07 - Simulating effect sizes using ld matrix: chr10.108726686.110317705.ld.gz
+26-Sep-18 09:18:04 - Using bim file for SNP/BP info: results/chr10/chr10.108726686.110317705.bim
+26-Sep-18 09:18:04 - Saving locus to: chr10.108726686.110317705.gwas
+26-Sep-18 09:18:36 - Simulating effect sizes using ld matrix: chr10.110317705.112561493.ld.gz
+26-Sep-18 09:19:51 - Using bim file for SNP/BP info: results/chr10/chr10.110317705.112561493.bim
+26-Sep-18 09:19:51 - Saving locus to: chr10.110317705.112561493.gwas
+26-Sep-18 09:20:33 - Simulating effect sizes using ld matrix: chr10.112561493.115328432.ld.gz
+26-Sep-18 09:21:56 - Using bim file for SNP/BP info: results/chr10/chr10.112561493.115328432.bim
+26-Sep-18 09:21:56 - Saving locus to: chr10.112561493.115328432.gwas
+26-Sep-18 09:22:02 - Simulating effect sizes using ld matrix: chr10.115328432.116421406.ld.gz
+26-Sep-18 09:22:13 - Using bim file for SNP/BP info: results/chr10/chr10.115328432.116421406.bim
+26-Sep-18 09:22:13 - Saving locus to: chr10.115328432.116421406.gwas
+26-Sep-18 09:22:13 - True prop causals: 0.0097
+26-Sep-18 09:22:13 - FINISHED simulating
+26-Sep-18 09:22:13 - Simulations can be found at: results/chr10
+results/chr10/chr10.gwas
+tail: error reading `results/chr10/chr10.gwas': Input/output error
+tail: write error
