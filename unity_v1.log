@@ -177,3 +177,4 @@ Note: No phenotypes present.
 26-Sep-18 09:09:30 - Simulating effect sizes using ld matrix: chr10.100668400.102949239.ld.gz
 26-Sep-18 09:10:19 - Using bim file for SNP/BP info: results/chr10/chr10.100668400.102949239.bim
 26-Sep-18 09:10:19 - Saving locus to: chr10.100668400.102949239.gwas
+26-Sep-18 09:11:27 - Simulating effect sizes using ld matrix: chr10.10249396.12586797.ld.gz
